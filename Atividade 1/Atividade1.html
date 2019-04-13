@@ -6,34 +6,32 @@
     <title>Atividade 1</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='Atividade1.css'>
-    <script src='main.js'></script>
 </head>
 <body>
     <header>
         <h1>Daniel Santos</h1>
         <h2>A.K.A. "Guerrilheiro"</h2>
-        <br>
         <table>
             <tr>
-                <td width=79%>
+                <td width=83%>
                     <hr width=98% color=gray size=1 align="left"> <!--Linha divisória-->
                 </td>
                 <td>
                     <nav>
                         <a href="https://www.facebook.com/DanMarighella" target="_blank">
-                            <img src="img/facebook.png" width="50" height="50">
+                            <img src="img/facebook.png" width="40" height="40">
                         </a>
                         <a href="https://br.pinterest.com/IamMarighella/" target="_blank">
-                            <img src="img/pinterest.png" width="50" height="50">
+                            <img src="img/pinterest.png" width="40" height="40">
                         </a>
                         <a href="https://www.instagram.com/iam.danielsan/" target="_blank">
-                            <img src="img/instagram.png" width="50" height="50">
+                            <img src="img/instagram.png" width="40" height="40">
                         </a>
                         <a href="https://pt.stackoverflow.com/users/41872/daniel-santos" target="_blank">
-                            <img src="img/stackoverflow.png" width="50" height="50">
+                            <img src="img/stackoverflow.png" width="40" height="40">
                         </a>
                         <a href="https://github.com/iam-marighella" target="_blank">
-                            <img src="img/github.png" width="50" height="50">
+                            <img src="img/github.png" width="40" height="40">
                         </a>
                     </nav>
                 </td>
@@ -66,13 +64,37 @@
                 de maneira mais rápida e confiável. Além disso, graças ao programa do curso, eu também aprenderei ferramentas e frameworks que me auxiliarão nas disciplinas do 
                 meu curso de graduação, em projetos pessoais, e, por fim, formular e desenvolver os projetos já existentes da USP e no DASI.
             </p>
+        <br>
+        <h3>Você gostou desta página ?</h3>
+        <p>
+            Ajude-me enviando dicas, sugestões e opiniões sobre o que você achou da página (incluindo navegabilidade, estética, etc).
+            Fazendo isso, você irá me ajudar a desenvolver projetos mais bem elaborados futuramente com base no nível de satisfação :)
+        </p>
+        <a href="mailto:danielsantosv8@usp.com?subject=Atividade%201%20|%20Sugestões%20WebDev"> <!--Chamando cliente outlook-->
+                <button name="enviarEmail" value="enviarEmail" onmouseover="mOver(this)" onmouseout="mOut(this)">
+                    Enviar!
+                </button>
+        </a>
     <footer>
         <div class="footer">
-            <em>"Esteja com o Grifo, que o Grifo estará com você"</em>
+            <br>
+            <em>"Esteja com o Grifo, que o Grifo estará com você"</em><br>
+            Projeto Pessoal © 2019 | <strong>Todos</strong> os direitos reservados.
         </div>
     </footer>
 </body>
-<script>
 
+<script type="text/javascript">
+    function mOver(button){
+        button.style.backgroundColor = "#FFFFFF";
+        button.style.color = "#5d2b90";
+        button.style.borderColor = "#5d2b90";
+        button.style.cursor="pointer";
+    }
+    function mOut(button){
+        button.style.backgroundColor = "#5d2b90";
+        button.style.color = "#FFFFFF";
+        button.style.borderColor = "#FFFFFF";
+    }
 </script>
 </html>
