@@ -1,0 +1,13 @@
+Membros do grupo:
+
+Ana Beatriz Pomarico
+Matheus Cunha
+Daniel Feitosa dos Santos
+
+Objetivo:
+
+A nossa ideia para o projeto é fazer um site de financiamento coletivo (crowdfunding) de produtos, estando ou não em fase de prototipação. No Brasil há sites como o 
+"vakinha" e o "kickante", no entanto, as campanhas são voltadas à ONGs ou eventos, normalmente. Em nosso site, os anúncios serão exclusivamente de produtos físicos, 
+cujo produtor necessita de uma certa quantidade de dinheiro ou encomendas para começar a produção. O produtor irá definir uma meta a ser atingida, 
+como, por exemplo, vender 20 unidades ou arrecadar 2000 reais, além disso irá definir algumas recompensas para os investidores de acordo com a quantidade doada. 
+O produtor deve ainda informar periodicamente sobre o desenvolvimento do produto.
