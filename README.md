@@ -10,8 +10,8 @@ Aqui estão os arquivos da página web descrevendo um pouco mais sobre mim.
 **- Atividade 2**
 Aqui estão os arquivos da atividade passada em sala no dia 12/04/19
 
-**- Aulas**
-Minhas anotações das aulas
+**-Encontro 2 JS**
+Aqui estão os arquivos da atividade passada em sala no dia 22/04/19
 
 **Projeto.txt**
 Aqui está explicado de forma detalhada o projeto que o meu grupo irá desenvolver durante o curso,  
