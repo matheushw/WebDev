@@ -1,14 +1,14 @@
 Membros do grupo/Peril do github:
 
 Ana Beatriz Pomarico/apomarico
-Matheus Cunha/matheushw
+Matheus Barcellos de Castro Cunha/matheushw
 Daniel Feitosa dos Santos/iam-marighella
 Fernando Gurtler/FernandoGurtler
 
 Objetivo:
 
-A nossa ideia para o projeto È fazer um site de financiamento coletivo (crowdfunding) de produtos, estando ou n„o em fase de prototipaÁ„o. No Brasil h· sites como o 
-"vakinha" e o "kickante", no entanto, as campanhas s„o voltadas ‡ ONGs ou eventos, normalmente. Em nosso site, os an˙ncios ser„o exclusivamente de produtos fÌsicos, 
-cujo produtor necessita de uma certa quantidade de dinheiro ou encomendas para comeÁar a produÁ„o. O produtor ir· definir uma meta a ser atingida, 
-como, por exemplo, vender 20 unidades ou arrecadar 2000 reais, alÈm disso ir· definir algumas recompensas para os investidores de acordo com a quantidade doada. 
+A nossa ideia para o projeto √© fazer um site de financiamento coletivo (crowdfunding) de produtos, estando ou n√£o em fase de prototipa√ß√£o. No Brasil h√° sites como o 
+"vakinha" e o "kickante", no entanto, as campanhas s√£o voltadas √† ONGs ou eventos, normalmente. Em nosso site, os an√∫ncios ser√£o exclusivamente de produtos f√≠sicos, 
+cujo produtor necessita de uma certa quantidade de dinheiro ou encomendas para come√ßar a produ√ß√£o. O produtor ir√° definir uma meta a ser atingida, 
+como, por exemplo, vender 20 unidades ou arrecadar 2000 reais, al√©m disso ir√° definir algumas recompensas para os investidores de acordo com a quantidade doada. 
 O produtor deve ainda informar periodicamente sobre o desenvolvimento do produto.
